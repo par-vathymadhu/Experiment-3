@@ -46,6 +46,8 @@ class Cycle_3_qn_2
 /**
 
 Output:
-
+Enter the number: 4
+Factorial: 24
+Sum of digits : 4
 
 **/
